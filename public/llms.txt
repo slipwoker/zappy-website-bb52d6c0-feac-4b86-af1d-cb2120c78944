@@ -1,0 +1,81 @@
+# Rocket Delivery — Generative Engine Optimization Map
+
+> Rocket Delivery is a nationwide Israeli courier and delivery company that projects speed, reliability, and professionalism. The brand identity is built around urgency and trust, featuring a diverse fleet ranging from express motorcycles for small city deliveries to professional trucks for large-scale nationwide logistics. The company serves both private individuals and businesses, emphasizing personal service, human response, and on-time delivery. The visual identity uses a bold black, white, and orange palette to convey energy, modernity, and dependability.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Rocket Delivery מביאה כל חבילה ליעדה בזמן, בכל מקום בישראל. שירות אקספרס אישי, צי רכבים מגוון ואמינות מוחלטת — הזמינו עכשיו ותרגישו את ההבדל.
+
+### סוגי משלוחים וצי רכבים
+https://example.com/delivery-types-fleet
+ממוטו אקספרס לעיר ועד משאיות לוגיסטיקה ארצית — Rocket Delivery מציעה פתרון משלוח מותאם לכל צורך. גלו את סוגי השירות שלנו ובחרו את הרכב המושלם למשלוח שלכם.
+
+### ביקורות ותהליך
+https://example.com/reviews-process
+קראו ביקורות אמיתיות מלקוחות מרוצים וגלו כיצד תהליך המשלוח של Rocket Delivery עובד — פשוט, שקוף ומהיר. כי אמון נבנה ממשלוח אחד בכל פעם.
+
+### צור קשר וגלריה
+https://example.com/contact-gallery
+רוצים לתאם משלוח או סתם לשאול שאלה? צרו קשר עם צוות Rocket Delivery עכשיו וקבלו מענה אנושי מהיר. בקרו גם בגלריה וגלו את הרכבים שמניעים את הלוגיסטיקה הישראלית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Rocket Delivery
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Rocket Delivery
+
+### Category
+https://example.com/category/:slug
+מוצרים - Rocket Delivery
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Rocket Delivery
+Rocket Delivery is a nationwide Israeli courier and delivery company that projects speed, reliability, and professionalism. The brand identity is built around urgency and trust, featuring a diverse fleet ranging from express motorcycles for small city deliveries to professional trucks for large-scale nationwide logistics. The company serves both private individuals and businesses, emphasizing personal service, human response, and on-time delivery. The visual identity uses a bold black, white, and orange palette to convey energy, modernity, and dependability.
+
+## Target Audience
+- לקוחות פרטיים ועסקיים בכל רחבי הארץ
+- לקוחות פרטיים ועסקיים
+- עסקי מסחר אלקטרוני
+- בעלי מסעדות
+
+## Industry
+Delivery & Logistics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
